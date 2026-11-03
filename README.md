@@ -6,11 +6,30 @@
 
 </div>
 
-# 👋 Hi, I'm Emmanuel Eyung (EY)
+<div align="center">
 
-🧭 *Building under the name* **Socraverse** — *Socratic + multiverse: every system has more than one explanation, and you find the right one by questioning until it breaks.*
+# Hi, I'm Emmanuel Eyung <sup>( EY )</sup> 👋
 
-I'm an **AI-Native Software Engineer** in training, a former **Mathematics & Physics teacher**, and a backend engineer who builds real, working systems — not demos.
+[![AI-Native Software Engineer](https://img.shields.io/badge/AI--NATIVE-SOFTWARE%20ENGINEER-1B2A4A?style=for-the-badge)](#)
+[![Backend](https://img.shields.io/badge/BACKEND-GO%20%C2%B7%20PYTHON%20%C2%B7%20TYPESCRIPT-2E6DA4?style=for-the-badge)](#)
+[![Ex Teacher](https://img.shields.io/badge/EX--TEACHER-MATH%20%26%20PHYSICS-BA7517?style=for-the-badge)](#)
+
+</div>
+
+<br/>
+
+> 🧭 **Building under the name _Socraverse_** — *Socratic + multiverse.*
+> Every system has more than one explanation, and you find the right one by questioning until it breaks.
+
+<p align="center">
+I'm an <b>AI-Native Software Engineer</b> in training, a former <b>Mathematics &amp; Physics teacher</b>, and a backend engineer who builds <b>real, working systems</b> — not demos.
+</p>
+
+<div align="center">
+
+⚡ &nbsp; **25,000+ lines** of tested Go in production &nbsp; · &nbsp; 🧑‍🏫 &nbsp; **150+ students** taught &nbsp; · &nbsp; 🛰️ &nbsp; **Open-source** multi-agent orchestration
+
+</div>
 
 ---
 
