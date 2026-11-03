@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=AI-Native+Software+Engineer;Go+%2F+Python+%2F+TypeScript+Backend;Builder+of+Multi-Agent+Systems;Ex-Mathematics+%26+Physics+Teacher" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:2E6DA4&height=230&section=header&text=EMMANUEL%20EYUNG&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI-Native%20Software%20Engineer%20%7C%20Socraverse&descAlignY=58&descSize=20&animation=fadeIn" alt="Header Banner" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2E6DA4&center=true&vCenter=true&width=700&lines=AI-Native+Software+Engineer;Go+%2F+Python+%2F+TypeScript+Backend;Builder+of+Multi-Agent+Systems;Ex-Mathematics+%26+Physics+Teacher" alt="Typing SVG" />
 
 </div>
 
