@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hi, I'm Emmanuel Eyung <sup>( EY )</sup> 👋
+# Hi, I'm Emmanuel Eyung 👋
 
 [![AI-Native Software Engineer](https://img.shields.io/badge/AI--NATIVE-SOFTWARE%20ENGINEER-1B2A4A?style=for-the-badge)](#)
 [![Backend](https://img.shields.io/badge/BACKEND-GO%20%C2%B7%20PYTHON%20%C2%B7%20TYPESCRIPT-2E6DA4?style=for-the-badge)](#)
