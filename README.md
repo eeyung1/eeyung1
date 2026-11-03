@@ -35,11 +35,11 @@ I'm an <b>AI-Native Software Engineer</b> in training, a former <b>Mathematics &
 
 ### 🧠 About Me
 
-- 🎓 AI-Native Software Engineer trainee — **Learn2Earn.ng**, a 24-month fellowship in Full-Stack Development, ML, AI Engineering, Blockchain, and Cybersecurity
-- 🔧 Backend Engineering Intern — **Uwaci**, building identity-and-authorization infrastructure for AI agents
-- 🧩 Built and open-sourced a **multi-agent orchestration framework** in Go, now used by other engineers and publicly recognised by my program's leadership
-- 🚀 Independently shipped **meuseAI**, an AI-education product with its own Paystack payment infrastructure, from architecture to live launch
-- 👨‍🏫 150+ students taught before I ever wrote a line of production code — that instinct for finding exactly where understanding breaks is still how I debug systems today
+- 🎓 AI-Native Software Engineer trainee — **Learn2Earn.ng**, a 24-month fellowship in Full-Stack Development, ML, AI Engineering, Blockchain, and Cybersecurity.
+- 🔧 Backend Engineering Intern — **Uwaci**, building identity-and-authorization infrastructure for AI agents.
+- 🧩 Built and open-sourced a **multi-agent orchestration framework** in Go, now used by other engineers and publicly recognised by my program's leadership.
+- 🚀 Independently shipped **meuseAI**, an AI-education product with its own Paystack payment infrastructure, from architecture to live launch.
+- 👨‍🏫 150+ students taught before I ever wrote a line of production code — that instinct for finding exactly where understanding breaks is still how I debug systems today.
 - 📐 **Principle:** back every claim with evidence. I don't ship what I haven't tested, and I don't claim what I haven't verified.
 
 ---
