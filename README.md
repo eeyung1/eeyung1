@@ -81,8 +81,8 @@ I'm an <b>AI-Native Software Engineer</b> in training, a former <b>Mathematics &
 
 ### 🌍 Let's Connect
 
-[![X](https://img.shields.io/badge/X-@eyungchess-000000?style=flat&logo=x)](https://x.com/eyungchess)
-[![Email](https://img.shields.io/badge/Email-eyungchess%40gmail.com-2E6DA4?style=flat&logo=gmail&logoColor=white)](mailto:eyungchess@gmail.com)
+[![X](https://img.shields.io/badge/X-@eeyun1-000000?style=flat&logo=x)](https://x.com/eyungchess)
+[![Email](https://img.shields.io/badge/Email-eyungemmanuel%40gmail.com-2E6DA4?style=flat&logo=gmail&logoColor=white)](mailto:eyungemmanuel@gmail.com)
 <!-- Add your LinkedIn badge here once you give me the URL:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
 
