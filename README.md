@@ -58,8 +58,8 @@ I'm an <b>AI-Native Software Engineer</b> in training, a former <b>Mathematics &
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eeyung1&show_icons=true&theme=tokyonight&hide_border=true" alt="EY's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeyung1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eeyung1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeyung1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeyung1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
